@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+C:\Users\juni3\Documents\STS\.metadata\.plugins\org.eclipse.jdt.core
+3227821506.index
+8712149.index
+1309588450.index
+1088524188.index
+2322199948.index
+3477382291.index
+3744768580.index
+3931868991.index
+3013259609.index
+4051490004.index
+2487545169.index
+2718374498.index
+1212378328.index
+2424253014.index
+29722408.index
+2048444847.index
+1446083365.index
+2459295640.index
+2989581785.index
+2762713783.index

@@ -35,5 +35,5 @@ public class HomeController {
 		
 		return "home";
 	}
-	
+	//9월 16일 깃허브 데스크 사용하는법 추가해서 올리기
 }
